@@ -8,6 +8,7 @@ menu.onclick =() =>{
     navbar.classList.toggle('active');
 }
 
+
 // for window scroll
 
 window.onscroll = () =>{
